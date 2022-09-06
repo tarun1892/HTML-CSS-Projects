@@ -122,7 +122,7 @@ span.globe img{
    top: 35%;
    left: 50%;
    font-family: "Orbitron", sans-serif;
-   font-size: 50px;
+   font-size: 48px;
 }
 
 .hero-container-right p{
@@ -182,7 +182,7 @@ span.globe img{
 .icons{
 
     display: inline-block;
-    margin-left: 960px;
+    margin-left: 900px;
     margin-right: auto;
     margin-top:20px;
     width: 40%;
